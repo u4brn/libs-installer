@@ -108,8 +108,7 @@ def menu():
                 invalid_input()
         except ValueError:
             invalid_input()
-              
-aprint("uk3run3l apresenta:\n")              
+                          
 line(10)
 aprint("Libs Installer")
 line(10)
